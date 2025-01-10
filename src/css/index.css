@@ -1,0 +1,71 @@
+body {
+    background-color: black;
+    font-family: "Inter", serif;
+}
+
+#hero {
+    background-color: #1F2937;
+    width: 550px;
+    height: 550px;
+    margin: 50px auto;
+    padding: 115px 52px;
+
+   
+}
+
+#title {
+    color: white;
+    font-family: "Karla", serif;
+    font-size: 40px;
+    font-weight: 800;
+  
+
+}
+
+span {
+    color: #4ADF86;
+    font-size: 40px;
+}
+
+#subtitle {
+    color: #D5D4D8
+}
+
+.btn-style {
+    background-color: #10B981;
+    width: 191px;
+    color: white;
+    padding: 9px 15px;
+    font-size: 16px;
+    font-family: Inter;
+    font-weight: 600;
+    line-height: 24px;
+    border-radius: 6px;
+    border: none;
+    cursor: pointer;
+}
+.btn-style:hover {
+    background-color: #4ADF86;
+}
+
+#result {
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+
+    margin-top: 35px ;
+    border-top: solid 1px #2F3E53;
+    text-align: center;
+}
+
+.password-style {
+    background-color: #273549;
+    font-family: "Inter", serif;
+    font-size: 16px;
+    color: #55F991;
+    padding: 4px 16px;
+    width: 211px;
+    height: 39px;
+    line-height: 32px;
+    
+}
