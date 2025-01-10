@@ -69,3 +69,8 @@ span {
     line-height: 32px;
     
 }
+
+.password-style:hover {
+    background-color: #1F2937;
+    cursor: pointer;
+}
